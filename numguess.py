@@ -6,3 +6,9 @@ answer = randint(1,100)
 
 # Print answer for debugging
 print(answer)
+
+# User interaction
+username = input("Hi there, What is your name?")
+print(f"Hi,{username}! Please be my guest!!")
+guess = int(input(f"So {username}, Guess the number(1-100): "))
+print(f'Well choice {username}~~ You picked {guess}!!')
