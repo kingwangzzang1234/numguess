@@ -1,7 +1,8 @@
 # numguess
-<h1>numguess</h1>
 
-프로젝트 설명 한줄요약
+`<h1>numguess</h1>`
+
+numguess는 미리 생성된 임의의 정답을 유저가 맞추는 게임입니다.
 
 ## Installation
 
